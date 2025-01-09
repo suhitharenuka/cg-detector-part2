@@ -2,7 +2,6 @@ matplotlib
 nltk
 numpy
 nvidia-cuda-runtime-cu12
-nvidia-pyindex
 openpyxl
 pandas
 pytorch-lightning
